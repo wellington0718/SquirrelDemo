@@ -18,12 +18,12 @@
 
             </TextBox>
 
-            <Button x:Name="UpdateButton" Click="UpdateButton_Click"
+            <Button x:Name="UpdateButton" Click="Update_Click"
                 Margin="0,15,0,0" IsEnabled="False">
                 Update
             </Button>
 
-            <Button Click="CheckForUpdatesButton_Click">
+            <Button Click="CheckForUpdates_Click">
                 Check
             </Button>
         </StackPanel>
